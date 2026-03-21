@@ -161,7 +161,7 @@ console.log(taggedString); // Output: Tagged template result
 
 //-- String literals with raw strings
 let rawString1 = String.raw`This is a raw string with a newline character: \n and a tab character: \t.`;
-console.log(rawString); // Output: This is a raw string with a newline character: \n and a tab character: \t.   
+console.log(rawString1); // Output: This is a raw string with a newline character: \n and a tab character: \t.   
 
 //-- String literals with internationalization
 let number = 1234567.89;
