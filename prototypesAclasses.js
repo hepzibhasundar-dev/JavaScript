@@ -41,4 +41,4 @@ rex.learn("sit");
 rex.learn("stay");
 console.log(rex.trickCount); //2
 console.log(rex instanceof Animal); //true
-console.log(Animal.kingdom());   // "AnimaliaS"
+console.log(Animal.kingdom());   // "Animalia"
